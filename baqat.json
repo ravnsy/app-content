@@ -1,0 +1,130 @@
+[
+    {
+        "id": "0",
+        "name": "beIN Sports",
+        "logo": "https:\/\/cityupload.io\/2025\/11\/unnamed_d6795.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "1",
+        "name": "Thamanya",
+        "logo": "https:\/\/cityupload.io\/2025\/12\/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "2",
+        "name": "Starz Play",
+        "logo": "https:\/\/cityupload.io\/2026\/05\/٢٠٢٦٠٥١٦-١٢٠٨٥٧.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "3",
+        "name": "Shahid SPORTS",
+        "logo": "https:\/\/cityupload.io\/2025\/12\/٢٠٢٥١٢٢٣-٢٢٤٧٤٠.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "4",
+        "name": "Arab sports",
+        "logo": "https:\/\/cityupload.io\/2026\/04\/٢٠٢٦٠٤١٩-١٦٥٢٥٤.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "5",
+        "name": "World Sports",
+        "logo": "https:\/\/cityupload.io\/2026\/04\/٢٠٢٦٠٤١٩-١٦٥٥٢٤.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "6",
+        "name": "OSN TV",
+        "logo": "https:\/\/cityupload.io\/2026\/02\/٢٠٢٦٠١١١-١٦٥٢٥٣_7ad15.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": true
+    },
+    {
+        "id": "7",
+        "name": "beIN Entertainment",
+        "logo": "https:\/\/cityupload.io\/2025\/12\/٢٠٢٥١٢٢٦-١٥١٠٣٢_06999.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "8",
+        "name": "MBC GROUP",
+        "logo": "https:\/\/cityupload.io\/2025\/12\/٢٠٢٥١٢٢٤-٢٢٠٢٢١.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "9",
+        "name": "Shahid VIP",
+        "logo": "https:\/\/cityupload.io\/2025\/12\/٢٠٢٥١٢٢٤-١٥٠١١٥.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "10",
+        "name": "Rotana GROUP",
+        "logo": "https:\/\/cityupload.io\/2025\/12\/٢٠٢٥١٢٢٦-٠٠٠٥٠٩.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "11",
+        "name": "RUYA",
+        "logo": "https:\/\/cityupload.io\/2025\/12\/٢٠٢٥١٢٢٨-١٩١٤٢٥.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "12",
+        "name": "Kids",
+        "logo": "https:\/\/cityupload.io\/2026\/01\/٢٠٢٦٠١٠١-١٧٠٧٤٢.png",
+        "type": "normal",
+        "xtream_url": "",
+        "hidden": false
+    },
+    {
+        "id": "13",
+        "name": "IPTV VIP 1",
+        "logo": "https:\/\/cityupload.io\/2026\/05\/٢٠٢٦٠٥١٦-١٠٤١٢٤.png",
+        "type": "iptv",
+        "xtream_url": "http:\/\/varnishrcdn.com:80\/get.php?username=hm576544&password=ak8373536&type=m3u_plus&output=m3u8",
+        "hidden": false
+    },
+    {
+        "id": "14",
+        "name": "IPTV VIP 2",
+        "logo": "https:\/\/cityupload.io\/2026\/05\/٢٠٢٦٠٥١٦-١٠٤١٢٤.png",
+        "type": "iptv",
+        "xtream_url": "http:\/\/arox.cc:80\/get.php?username=24335738729223&password=24335738729223&type=m3u_plus&output=ts",
+        "hidden": true
+    },
+    {
+        "id": "15",
+        "name": "IPTV VIP 3",
+        "logo": "https:\/\/cityupload.io\/2026\/05\/٢٠٢٦٠٥١٦-١٠٤١٢٤.png",
+        "type": "iptv",
+        "xtream_url": "http:\/\/cf.purehd.online:80\/get.php?username=fitra89&password=77ae8b48a2&type=m3u_plus&output=ts",
+        "hidden": true
+    }
+]
