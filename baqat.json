@@ -112,11 +112,11 @@
     "hidden": false
   },
   {
+    "id": "14",
     "name": "IPTV VIP 2",
     "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٠٤١٢٤.png",
     "type": "iptv",
     "xtream_url": "http://2024.cdngold.pro/get.php?username=22879076996000&password=23406162324988&type=m3u_plus&output=ts",
-    "hidden": true,
-    "id": "14"
+    "hidden": false
   }
 ]
