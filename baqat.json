@@ -130,11 +130,9 @@
   {
     "name": "ABDO 1",
     "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٦-٠٠٠٥٠٩.png",
-    "type": "api",
+    "type": "iptv",
     "xtream_url": "",
     "hidden": false,
-    "api_url": "https://api.mostadira.xyz/a/mostv/api/2?method=category&event=view",
-    "api_key": "Yy54Wmo9Tjl4bjFnZSZ4Z2V2QHZ3",
     "id": "16"
   }
 ]
