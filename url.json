@@ -193,20 +193,6 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
-      },
-      {
-        "name": "تست",
-        "url": "https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd",
-        "user_agent": "https://sps1.starzplayarabia.com",
-        "referer": "https://sps1.starzplayarabia.com/",
-        "origin": "",
-        "cookie": "",
-        "drm_scheme": "clearkey",
-        "clearkey_key": "ab3991f6a7729ba1ea4bcdba0c1ae6c0",
-        "clearkey_kid": "ee861edcd99093153a763a94b14c2c5a",
-        "drm_license_url": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0",
-        "headers": [],
-        "hidden": false
       }
     ]
   },
