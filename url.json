@@ -478,10 +478,10 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/xWY7y8sVGTz9jWzGaWO7QnJgpDqenwsAdhFMyPKPtHISeJmcnXBPe7dDypKQSjJ72uhz0g7vGrdmxdLRM4NqRA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
-        "referer": "http://23370wa.xyz/",
-        "origin": "http://23370wa.xyz",
+        "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/ujsn1eTRZ1tCFNCkoDYPt6QUzki6VPj6tjPfj4AMoFitmvTL-mDMhrNJCE4RDyTwXP9eYWky8ZBlFFOy7RpCGw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
         "cookie": "",
         "drm_scheme": "",
         "clearkey_key": "",
