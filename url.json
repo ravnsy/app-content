@@ -106,8 +106,8 @@
         "hidden": false
       },
       {
-        "name": "احتياطي",
-        "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/dTwcrntR2w9rPuBLS09yIjRWCsXTkNusLP0gt2q6YZkH_5l4UzNd9IxFZwb1zEVGsrbhmMECljME9xrXcCupmw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "name": "خاص بلعراق",
+        "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
