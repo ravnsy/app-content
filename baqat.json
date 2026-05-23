@@ -102,13 +102,5 @@
     "type": "normal",
     "xtream_url": "",
     "hidden": false
-  },
-  {
-    "name": "IPTV VIP 1",
-    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٠٤١٢٤.png",
-    "type": "iptv",
-    "xtream_url": "http://monstertv.live:8080/get.php?username=tiptonlily26@gmail.com&password=g3sfXSP4qUZV&type=m3u_plus&output=ts",
-    "hidden": false,
-    "id": "13"
   }
 ]
