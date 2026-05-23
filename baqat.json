@@ -133,7 +133,7 @@
     "type": "api",
     "xtream_url": "",
     "hidden": false,
-    "api_url": "https://api.mostadira.xyz/a/mostv/api/2?method=category&event=view",
+    "api_url": "https://api.mostadira.xyz/a/mostv/api/2",
     "api_key": "c.xZj=N9xn1ge&xgev@vw",
     "id": "16"
   }
