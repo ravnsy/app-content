@@ -64,20 +64,20 @@
     "hidden": false
   },
   {
-    "id": "6",
-    "name": "OSN TV",
-    "logo": "https://cityupload.io/2026/02/٢٠٢٦٠١١١-١٦٥٢٥٣_7ad15.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": true
-  },
-  {
     "name": "IPTV VIP",
     "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥٢٤-٢١٠١١٦.png",
     "type": "iptv",
     "xtream_url": "http://185.191.126.127:8080/get.php?username=%204750034742512197&password=3177932697568638&type=m3u_plus&output=ts",
     "hidden": false,
     "id": "14"
+  },
+  {
+    "id": "6",
+    "name": "OSN TV",
+    "logo": "https://cityupload.io/2026/02/٢٠٢٦٠١١١-١٦٥٢٥٣_7ad15.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": true
   },
   {
     "id": "7",
