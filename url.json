@@ -2530,5 +2530,24 @@
         "hidden": false
       }
     ]
+  },
+  {
+    "channel_id": 7,
+    "servers": [
+      {
+        "name": "جودة عاليه",
+        "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7lZ9uaXeKhI8DNK1lHwCXWs/ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+        "referer": "http://23370wa.xyz/",
+        "origin": "http://23370wa.xyz",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
+      }
+    ]
   }
 ]
