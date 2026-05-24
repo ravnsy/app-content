@@ -80,20 +80,20 @@
     "hidden": false
   },
   {
-    "id": "9",
-    "name": "Shahid VIP",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-١٥٠١١٥.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": false
-  },
-  {
     "name": "beIN Sports FR",
     "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
     "type": "normal",
     "xtream_url": "",
     "hidden": true,
     "id": "15"
+  },
+  {
+    "id": "9",
+    "name": "Shahid VIP",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-١٥٠١١٥.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
   },
   {
     "id": "10",
