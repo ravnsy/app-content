@@ -615,6 +615,20 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
+      },
+      {
+        "name": "4K",
+        "url": "http://live.alkatlantv.com:8888/bein1_4k/index.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
       }
     ]
   },
