@@ -788,7 +788,7 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/8rjebA-UAVuJsRSNzOmRXy-11SNu8ipdQjacenweQu13iKY_Lqx7jZl00CPecfUO8haQ8hkcukTnrkZvh-T86w/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "http://185.191.126.127:8080/live/%204750034742512197/3177932697568638/421392.ts",
         "user_agent": "",
         "referer": "",
         "origin": "",
