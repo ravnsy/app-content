@@ -96,20 +96,20 @@
     "hidden": false
   },
   {
-    "id": "10",
-    "name": "Rotana GROUP",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٦-٠٠٠٥٠٩.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": false
-  },
-  {
     "name": "IPTV VIP",
     "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥٢٤-٢١٠١١٦.png",
     "type": "iptv",
     "xtream_url": "http://185.191.126.127:8080/get.php?username=%204750034742512197&password=3177932697568638&type=m3u_plus&output=ts",
     "hidden": false,
     "id": "14"
+  },
+  {
+    "id": "10",
+    "name": "Rotana GROUP",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٦-٠٠٠٥٠٩.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
   },
   {
     "id": "11",
