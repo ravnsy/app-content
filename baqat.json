@@ -110,13 +110,5 @@
     "type": "normal",
     "xtream_url": "",
     "hidden": false
-  },
-  {
-    "name": "IPTV WORLD",
-    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٠٤١٢٤.png",
-    "type": "iptv",
-    "xtream_url": "https://iptv-org.github.io/iptv/index.m3u",
-    "hidden": false,
-    "id": "14"
   }
 ]
