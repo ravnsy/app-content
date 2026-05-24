@@ -24,20 +24,20 @@
     "hidden": false
   },
   {
-    "id": "2",
-    "name": "Starz Play",
-    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٢٠٨٥٧.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": false
-  },
-  {
     "name": "beIN Sports FR",
     "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
     "type": "normal",
     "xtream_url": "",
     "hidden": true,
     "id": "15"
+  },
+  {
+    "id": "2",
+    "name": "Starz Play",
+    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٢٠٨٥٧.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
   },
   {
     "id": "3",
