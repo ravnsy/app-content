@@ -572,7 +572,7 @@
         "clearkey_kid": "",
         "drm_license_url": "",
         "headers": [],
-        "hidden": false
+        "hidden": true
       },
       {
         "name": "الوان 1 HD",
