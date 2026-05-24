@@ -2675,20 +2675,6 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
-      },
-      {
-        "name": "A",
-        "url": "http://185.191.126.127/live/%204750034742512197/3177932697568638/318217.ts",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "drm_scheme": "",
-        "clearkey_key": "",
-        "clearkey_kid": "",
-        "drm_license_url": "",
-        "headers": [],
-        "hidden": false
       }
     ]
   },
