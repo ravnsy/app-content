@@ -201,7 +201,7 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/rN5Ow6xCEBxdfc-T5C4_D4WT-pCkscjQ24oOmAhzCJjIOY_X03tp8Vj-7SGLHPCwwRBdZ0JT1pWwBJPfC5i3-Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/AJcXM51OKyqcq-isdr9YRP_iNdm8f6bm12aXDxZUVWAS8Y7BB2I_XUZfeYrnbel6_KwqI3KlYXjXrGm-wywwNQ/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_delta.m3u8?type=live",
         "user_agent": "",
         "referer": "",
         "origin": "",
