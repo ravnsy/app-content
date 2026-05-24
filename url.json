@@ -2639,5 +2639,24 @@
         "hidden": false
       }
     ]
+  },
+  {
+    "channel_id": 140,
+    "servers": [
+      {
+        "name": "bein fr 5",
+        "url": "http://145.239.5.177/572/tracks-v1a1/mono.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
+      }
+    ]
   }
 ]
