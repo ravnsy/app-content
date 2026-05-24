@@ -153,20 +153,6 @@
         "hidden": false
       },
       {
-        "name": "الوان 2  HD",
-        "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7q115ThOzvzt2RVTPkVgeqw/ts",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
-        "referer": "http://23370wa.xyz/",
-        "origin": "http://23370wa.xyz",
-        "cookie": "",
-        "drm_scheme": "",
-        "clearkey_key": "",
-        "clearkey_kid": "",
-        "drm_license_url": "",
-        "headers": [],
-        "hidden": true
-      },
-      {
         "name": "جودة عالية",
         "url": "http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7qR4VpobRbmfLkWP6IpqL8M/ts",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
@@ -179,6 +165,20 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
+      },
+      {
+        "name": "الوان 2  HD",
+        "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7q115ThOzvzt2RVTPkVgeqw/ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+        "referer": "http://23370wa.xyz/",
+        "origin": "http://23370wa.xyz",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": true
       },
       {
         "name": "الفجر 4",
