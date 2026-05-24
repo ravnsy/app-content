@@ -48,20 +48,20 @@
     "hidden": false
   },
   {
-    "id": "5",
-    "name": "World Sports",
-    "logo": "https://cityupload.io/2026/04/٢٠٢٦٠٤١٩-١٦٥٥٢٤.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": false
-  },
-  {
     "name": "beIN Sports FR",
     "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
     "type": "normal",
     "xtream_url": "",
     "hidden": true,
     "id": "15"
+  },
+  {
+    "id": "5",
+    "name": "World Sports",
+    "logo": "https://cityupload.io/2026/04/٢٠٢٦٠٤١٩-١٦٥٥٢٤.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
   },
   {
     "id": "6",
