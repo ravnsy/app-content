@@ -1,1 +1,130 @@
-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
+[
+  {
+    "name": "FIFA WORLD 2026",
+    "logo": "https://cityupload.io/2026/05/file-00000000559071f4837f2405a9e1a4d3.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false,
+    "id": "14"
+  },
+  {
+    "name": "beIN Sports AR",
+    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false,
+    "id": "0"
+  },
+  {
+    "name": "beIN Sports FR/EN",
+    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false,
+    "id": "15"
+  },
+  {
+    "name": "IPTV VIP",
+    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥٢٤-٢١٠١١٦.png",
+    "type": "iptv",
+    "xtream_url": "http://185.191.126.127/get.php?username= 1457983443440351&password=2513640789622561&type=m3u_plus",
+    "hidden": false,
+    "id": "14"
+  },
+  {
+    "id": "1",
+    "name": "Thamanya",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "2",
+    "name": "Starz Play",
+    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٢٠٨٥٧.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "3",
+    "name": "Shahid SPORTS",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٤٧٤٠.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "4",
+    "name": "Arab sports",
+    "logo": "https://cityupload.io/2026/04/٢٠٢٦٠٤١٩-١٦٥٢٥٤.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "5",
+    "name": "World Sports",
+    "logo": "https://cityupload.io/2026/04/٢٠٢٦٠٤١٩-١٦٥٥٢٤.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "6",
+    "name": "OSN TV",
+    "logo": "https://cityupload.io/2026/02/٢٠٢٦٠١١١-١٦٥٢٥٣_7ad15.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": true
+  },
+  {
+    "id": "7",
+    "name": "beIN Entertainment",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٦-١٥١٠٣٢_06999.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "8",
+    "name": "MBC GROUP",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-٢٢٠٢٢١.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "9",
+    "name": "Shahid VIP",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٤-١٥٠١١٥.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "10",
+    "name": "Rotana GROUP",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٦-٠٠٠٥٠٩.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "11",
+    "name": "RUYA",
+    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٨-١٩١٤٢٥.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  },
+  {
+    "id": "12",
+    "name": "Kids",
+    "logo": "https://cityupload.io/2026/01/٢٠٢٦٠١٠١-١٧٠٧٤٢.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
+  }
+]
