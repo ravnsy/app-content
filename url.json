@@ -646,7 +646,7 @@
       },
       {
         "name": "احتياطي ",
-        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/fJvRDdK7tz6xuFRrFRRlS78BFbNLUp-ibDi3Hj47oLbHszwTWGeU54RHFu9ms_fAuxXPVdvRW7j39-m1KkKagA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/j4XlaYN0BVQkm5VP0iRUoCEH53f8-jE1VQxifYmrk15tjZov_CY9Ll6CcBi4MZ70ysYcMwxb1scVrsLcQEsU8A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
         "user_agent": "",
         "referer": "",
         "origin": "",
