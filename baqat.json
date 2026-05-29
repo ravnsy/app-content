@@ -24,20 +24,20 @@
     "id": "15"
   },
   {
-    "name": "IPTV VIP",
-    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥٢٤-٢١٠١١٦.png",
-    "type": "iptv",
-    "xtream_url": "http://185.191.126.127:8080/get.php?username= 1457983443440351&password=2513640789622561&type=m3u_plus",
-    "hidden": false,
-    "id": "14"
-  },
-  {
     "name": "بث خاص للمباريات",
     "logo": "https://cityupload.io/2026/05/live-stream.png",
     "type": "normal",
     "xtream_url": "",
     "hidden": false,
     "id": "16"
+  },
+  {
+    "name": "IPTV VIP",
+    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥٢٤-٢١٠١١٦.png",
+    "type": "iptv",
+    "xtream_url": "http://185.191.126.127:8080/get.php?username= 1457983443440351&password=2513640789622561&type=m3u_plus",
+    "hidden": false,
+    "id": "14"
   },
   {
     "id": "1",
