@@ -120,19 +120,19 @@
     "hidden": false
   },
   {
-    "id": "12",
-    "name": "Kids",
-    "logo": "https://cityupload.io/2026/01/٢٠٢٦٠١٠١-١٧٠٧٤٢.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": false
-  },
-  {
     "name": "بث خاص للمباريات",
     "logo": "https://cityupload.io/2026/05/live-stream.png",
     "type": "normal",
     "xtream_url": "",
     "hidden": false,
     "id": "16"
+  },
+  {
+    "id": "12",
+    "name": "Kids",
+    "logo": "https://cityupload.io/2026/01/٢٠٢٦٠١٠١-١٧٠٧٤٢.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
   }
 ]
