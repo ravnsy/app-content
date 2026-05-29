@@ -40,20 +40,20 @@
     "hidden": false
   },
   {
-    "id": "2",
-    "name": "Starz Play",
-    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٢٠٨٥٧.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": false
-  },
-  {
     "name": "بث خاص للمباريات",
     "logo": "https://cityupload.io/2026/05/live-stream.png",
     "type": "normal",
     "xtream_url": "",
     "hidden": false,
     "id": "16"
+  },
+  {
+    "id": "2",
+    "name": "Starz Play",
+    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥١٦-١٢٠٨٥٧.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false
   },
   {
     "id": "3",
