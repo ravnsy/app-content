@@ -1795,7 +1795,7 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd",
+        "url": "https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "referer": "https://shahid.mbc.net/",
         "origin": "https://shahid.mbc.net",
