@@ -8,20 +8,20 @@
     "id": "14"
   },
   {
-    "name": "beIN Sports AR",
-    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
-    "type": "normal",
-    "xtream_url": "",
-    "hidden": false,
-    "id": "0"
-  },
-  {
     "name": "بث خاص للمباريات",
     "logo": "https://cityupload.io/2026/05/live-stream.png",
     "type": "normal",
     "xtream_url": "",
     "hidden": false,
     "id": "16"
+  },
+  {
+    "name": "beIN Sports AR",
+    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
+    "type": "normal",
+    "xtream_url": "",
+    "hidden": false,
+    "id": "0"
   },
   {
     "name": "beIN Sports FR/EN",
