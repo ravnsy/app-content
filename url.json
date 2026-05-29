@@ -1871,7 +1871,7 @@
     "servers": [
       {
         "name": "جودة متعددة",
-        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8",
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx013/1080p-d/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "referer": "https://shahid.mbc.net/",
         "origin": "https://shahid.mbc.net",
