@@ -2804,8 +2804,8 @@
         "hidden": false
       },
       {
-        "name": "beIN 1 HD",
-        "url": "http://82.39.115.26:8888/Hd/tracks-v1a1/mono.m3u8",
+        "name": "beIN 1 4K",
+        "url": "http://live.alkatlantv.com:8888/bein1_4k/index.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
@@ -2820,8 +2820,8 @@
         "hidden": false
       },
       {
-        "name": "beIN 1 4K",
-        "url": "http://live.alkatlantv.com:8888/bein1_4k/index.m3u8",
+        "name": "beIN 1 HD",
+        "url": "http://82.39.115.26:8888/Hd/tracks-v1a1/mono.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
