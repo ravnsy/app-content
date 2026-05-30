@@ -2810,12 +2810,14 @@
         "referer": "",
         "origin": "",
         "cookie": "",
-        "drm_scheme": "clearkey",
+        "drm_scheme": "widevine",
         "clearkey_key": "a9e6463f2fd04597fcaabe18b12926c5",
         "clearkey_kid": "0535811d2fa5a44be28d9562d2ab0ce2",
         "drm_license_url": "",
         "headers": [],
-        "hidden": false
+        "hidden": false,
+        "widevine_key": "a9e6463f2fd04597fcaabe18b12926c5",
+        "widevine_kid": "0535811d2fa5a44be28d9562d2ab0ce2"
       }
     ]
   }
