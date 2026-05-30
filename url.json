@@ -605,20 +605,6 @@
         "hidden": true
       },
       {
-        "name": "الوان 1 HD",
-        "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7nUUlBeGgd9sI7PeKoSQ0Tg/ts",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
-        "referer": "http://23370wa.xyz/",
-        "origin": "http://23370wa.xyz",
-        "cookie": "",
-        "drm_scheme": "",
-        "clearkey_key": "",
-        "clearkey_kid": "",
-        "drm_license_url": "",
-        "headers": [],
-        "hidden": false
-      },
-      {
         "name": "جودة ضعيفة",
         "url": "http://het127a.ycn-redirect.com/live/978480008877005/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -630,6 +616,20 @@
         "clearkey_kid": "",
         "widevine_key": "",
         "widevine_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
+      },
+      {
+        "name": "الوان 1 HD",
+        "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7nUUlBeGgd9sI7PeKoSQ0Tg/ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
+        "referer": "http://23370wa.xyz/",
+        "origin": "http://23370wa.xyz",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
         "drm_license_url": "",
         "headers": [],
         "hidden": false
