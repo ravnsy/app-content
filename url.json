@@ -530,7 +530,7 @@
     ]
   },
   {
-    "channel_id": 143,
+    "channel_id": 0,
     "servers": [
       {
         "name": "جودة متعددة",
@@ -544,7 +544,9 @@
         "clearkey_kid": "",
         "drm_license_url": "",
         "headers": [],
-        "hidden": false
+        "hidden": false,
+        "widevine_key": "",
+        "widevine_kid": ""
       },
       {
         "name": "جودة عالية",
