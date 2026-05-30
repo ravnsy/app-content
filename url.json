@@ -92,11 +92,11 @@
         "hidden": false
       },
       {
-        "name": "الفجر 1",
-        "url": "http://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7vmdLumMjX5PJESx43I7lpI/ts",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15",
-        "referer": "http://23370wa.xyz/",
-        "origin": "http://23370wa.xyz",
+        "name": "4K",
+        "url": "http://82.39.115.26:8888/bein2/index.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
         "cookie": "",
         "drm_scheme": "",
         "clearkey_key": "",
