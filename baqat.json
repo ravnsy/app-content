@@ -36,7 +36,7 @@
     "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥٢٤-٢١٠١١٦.png",
     "type": "iptv",
     "xtream_url": "http://185.191.126.127:8080/get.php?username=0866334899&password=646752111124&type=m3u_plus",
-    "hidden": false,
+    "hidden": true,
     "id": "14"
   },
   {
