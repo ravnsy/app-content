@@ -633,20 +633,6 @@
         "hidden": false
       },
       {
-        "name": "احتياطي ",
-        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/j4XlaYN0BVQkm5VP0iRUoCEH53f8-jE1VQxifYmrk15tjZov_CY9Ll6CcBi4MZ70ysYcMwxb1scVrsLcQEsU8A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "drm_scheme": "",
-        "clearkey_key": "",
-        "clearkey_kid": "",
-        "drm_license_url": "",
-        "headers": [],
-        "hidden": false
-      },
-      {
         "name": "جودة ضعيفة",
         "url": "http://het127a.ycn-redirect.com/live/978480008877005/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -658,6 +644,20 @@
         "clearkey_kid": "",
         "widevine_key": "",
         "widevine_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
+      },
+      {
+        "name": "احتياطي ",
+        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/j4XlaYN0BVQkm5VP0iRUoCEH53f8-jE1VQxifYmrk15tjZov_CY9Ll6CcBi4MZ70ysYcMwxb1scVrsLcQEsU8A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
         "drm_license_url": "",
         "headers": [],
         "hidden": false
