@@ -2891,7 +2891,7 @@
       },
       {
         "name": "احتياطي 1",
-        "url": "http://live.alkatlantv.com:8888/bein1_4k/index.m3u8",
+        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/VfoUFJnaUUTBpN7378Dk-ET4gHmMmIkCO7pVrdaceYn-SUzbDlkjFrdMOPo6qnLHTqZjfdmHs2KEB5Ww5vQs5w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
         "user_agent": "",
         "referer": "",
         "origin": "",
