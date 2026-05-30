@@ -2806,9 +2806,9 @@
       {
         "name": "الفجر 1 ",
         "url": "https://cdn4-mejarhosting.cfd/ftv1_1080p/index.mpd",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
+        "user_agent": "Mozilla/5.0",
+        "referer": "https://cdn4-mejarhosting.cfd/",
+        "origin": "https://cdn4-mejarhosting.cfd",
         "cookie": "",
         "drm_scheme": "widevine",
         "clearkey_key": "a9e6463f2fd04597fcaabe18b12926c5",
@@ -2816,8 +2816,8 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false,
-        "widevine_key": "a9e6463f2fd04597fcaabe18b12926c5",
-        "widevine_kid": "0535811d2fa5a44be28d9562d2ab0ce2"
+        "widevine_key": "0535811d2fa5a44be28d9562d2ab0ce2",
+        "widevine_kid": "a9e6463f2fd04597fcaabe18b12926c5"
       }
     ]
   }
