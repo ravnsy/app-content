@@ -2850,6 +2850,22 @@
         "drm_license_url": "",
         "headers": [],
         "hidden": false
+      },
+      {
+        "name": "beIN 2 HD",
+        "url": "http://live.alkatlantv.com:8888/bein2/index.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "widevine_key": "",
+        "widevine_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
       }
     ]
   }
