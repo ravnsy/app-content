@@ -2741,7 +2741,7 @@
       },
       {
         "name": "سيرفر 2",
-        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/gpQi78pPJ-5pPxg8ksdb7LkiUM1ykWlka7bu7hBd95pC5kKXeH8izwdECoTGkQmIZ1o-xgp-VFDtgeubRtzagQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/JrZe_2AxqjaSKtJ--wXkt24yDDEcy8c0WxCJgUnkwwJff-A1CXUNwkY170EO1xU543u9w2e6hbyVaG5fwAQ2Mg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
         "user_agent": "",
         "referer": "",
         "origin": "",
