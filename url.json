@@ -2721,7 +2721,7 @@
     "servers": [
       {
         "name": "سيرفر 1",
-        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ME0kH79EiUYyc3yqG09n_75yghaKSeN0NzJP2A4JgvtZafu1ma_uE5JyoPs8J9PQulMQqCtCvg51TlpYgXEbuw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ZI6J4h9U7tfr5EsguWQ_tVuXunXx1XGxz_cWzSFXtKKFUce31EXeXLtPj2W6XtbUjKTV-IhaJfRwHBN4USJt7A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
         "user_agent": "",
         "referer": "",
         "origin": "",
