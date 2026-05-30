@@ -103,7 +103,7 @@
         "clearkey_kid": "",
         "drm_license_url": "",
         "headers": [],
-        "hidden": true
+        "hidden": false
       },
       {
         "name": "خاص بلعراق",
