@@ -152,5 +152,14 @@
     "hidden": false,
     "m3u_url": "https://raw.githubusercontent.com/El-asri-kimo/forever/main/iptv.m3u",
     "id": "18"
+  },
+  {
+    "name": "IPTV 2",
+    "logo": "https://cityupload.io/2026/05/٢٠٢٦٠٥٢٤-٢١٠١١٦.png",
+    "type": "iptv",
+    "xtream_url": "",
+    "hidden": false,
+    "m3u_url": "https://iptv-org.github.io/iptv/index.m3u",
+    "id": "19"
   }
 ]
