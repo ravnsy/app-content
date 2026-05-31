@@ -2958,5 +2958,26 @@
         "widevine_kid": ""
       }
     ]
+  },
+  {
+    "channel_id": 15,
+    "servers": [
+      {
+        "name": "جودة متعددة",
+        "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zJj5EIrprdD-H3OtSIQ1FY-245E6F3ByOVsi8tStKeRJ2iVUf0SmBRzgsZMamSJX522ejQ5fyzvQB76WJiicQQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "drm_scheme": "",
+        "clearkey_key": "",
+        "clearkey_kid": "",
+        "widevine_key": "",
+        "widevine_kid": "",
+        "drm_license_url": "",
+        "headers": [],
+        "hidden": false
+      }
+    ]
   }
 ]
